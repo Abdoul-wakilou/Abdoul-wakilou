@@ -1,7 +1,7 @@
 # 🌍 Abdoul-Wakilou TIGA
 
-### Développeur Web Fullstack | Rédacteur Web SEO | Marketer Digital
-## Passionné de l'Intelligence Artificielle
+## Développeur Web & mobile Fullstack | Rédacteur Web SEO | Marketer Digital
+### Passionné de l'Intelligence Artificielle
 ---
 
 📍 **Abomey-Calavi, Bénin**  
