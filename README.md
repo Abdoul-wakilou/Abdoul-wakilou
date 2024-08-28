@@ -23,10 +23,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abdoul-wakilou&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
+### ✍️ Citation [Ma règle d'or]
+"La discipline, la patience, la perséverance, le travail acharné, l'amour du prochain et la prière sont les choses qui doivent être notre quotidien pour être des hommes accomplis"
 <!--
 **Abdoul-wakilou/Abdoul-wakilou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
