@@ -1,6 +1,6 @@
 # 👤 Abdoul-Wakilou TIGA  
 
-## 💼 Développeur Web & Mobile Fullstack | Rédacteur Web SEO | Marketer Digital  
+## 💼 Développeur Web & Mobile Fullstack | Marketer Digital  
 ### 🤖 Passionné d'Intelligence Artificielle 
 
 ---
