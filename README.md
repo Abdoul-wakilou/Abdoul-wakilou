@@ -1,7 +1,7 @@
-# 🌍 Abdoul-Wakilou TIGA  
+# 👤 Abdoul-Wakilou TIGA  
 
-## 💫 Développeur Web & Mobile Fullstack | Rédacteur Web SEO | Marketer Digital  
-### 🚀 Passionné d'Intelligence Artificielle  
+## 💼 Développeur Web & Mobile Fullstack | Rédacteur Web SEO | Marketer Digital  
+### 🤖 Passionné d'Intelligence Artificielle 
 
 ---
 
@@ -13,7 +13,7 @@
 
 ## 📍 Informations de contact  
 - 📌 **Localisation** : Abomey-Calavi, Bénin  
-- 📞 **Téléphone** : (+229) 51 97 91 63  
+- 📞 **Téléphone** : (+229) 01 51 97 91 63  
 - 📧 **Email** : [abdoulwakiloutiga@gmail.com](mailto:abdoulwakiloutiga@gmail.com)  
 - 🌐 **Site Web** : [abdevfreelance.com](https://abdevfreelance.com)  
 
@@ -71,12 +71,6 @@
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Abdoul-wakilou&show_icons=true&theme=radical&hide_border=true)
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdoul-wakilou&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 🏆 Trophées GitHub
-
-![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=Abdoul-wakilou&theme=radical&no-frame=true&column=7)
 
 ---
 
