@@ -6,7 +6,7 @@
 ---
 
 ## 🏆 Classement & Reconnaissances  
-- **9ᵉ développeur le plus actif du Bénin** selon [committers.top](https://committers.top/benin_private)  
+- **8ᵉ développeur le plus actif du Bénin** selon [committers.top](https://committers.top/benin_private)  
 [![committers.top badge](https://user-badge.committers.top/benin_private/Abdoul-wakilou.svg)](https://user-badge.committers.top/benin_private/Abdoul-wakilou)  
 
 ---
